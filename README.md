@@ -13,5 +13,9 @@ goes to Google and Stack overflow
 
 
     💻   C++ Python Java
-    🛢   MySQL 
+    🛢   MySQL
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=allstarabhi&show_icons=true&theme=tokyonight" 
+/>
 
