@@ -1,10 +1,6 @@
-### Hi, I'm Abhishek Srivastava 👋
+# Hi, I'm Abhishek Srivastava 👋
 
-Changing the world one pixel at a time!
-
-About me 
-
-Hey! I'm Abhishek, a 21 year old college graduate pursuing MCA at :mortar_board: VIT Bhopal.
+I'm a 21 year old college graduate pursuing MCA at :mortar_board: **VIT Bhopal**.
 
 :octocat: I have a soft spot for technology and communites. 
 
